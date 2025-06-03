@@ -28,12 +28,13 @@ export default function VoiceSupportPage() {
             </div>
             <div className="md:w-1/2">
               <Image 
-                src="https://placehold.co/600x400.png" 
+                src="/assets/images/voice.png" 
                 alt="Voice Support Services" 
                 width={600} 
                 height={400} 
                 className="rounded-xl shadow-xl object-cover"
                 data-ai-hint="call center agents"
+                unoptimized
               />
             </div>
           </div>

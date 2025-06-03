@@ -28,12 +28,13 @@ export default function LiveChatPage() {
             </div>
             <div className="md:w-1/2">
               <Image 
-                src="https://placehold.co/600x400.png" 
+                src="/assets/images/chat.png" 
                 alt="Live Chat Support Services" 
                 width={600} 
                 height={400} 
                 className="rounded-xl shadow-xl object-cover"
                 data-ai-hint="live chat discussion"
+                unoptimized
               />
             </div>
           </div>

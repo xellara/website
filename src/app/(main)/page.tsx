@@ -146,6 +146,7 @@ export default function HomePage() {
                 height={350} 
                 className="rounded-xl shadow-2xl"
                 data-ai-hint="team collaboration"
+                unoptimized
               />
             </div>
           </div>

@@ -23,6 +23,7 @@ export default function AboutPage() {
                 height={400}
                 className="rounded-xl shadow-xl"
                 data-ai-hint="business journey graph"
+                unoptimized
               />
             </div>
             <div>
@@ -68,6 +69,7 @@ export default function AboutPage() {
                 height={400}
                 className="rounded-xl shadow-xl"
                 data-ai-hint="target success"
+                unoptimized
               />
             </div>
           </div>

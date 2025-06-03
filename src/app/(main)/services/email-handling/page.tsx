@@ -28,12 +28,13 @@ export default function EmailHandlingPage() {
             </div>
             <div className="md:w-1/2">
               <Image 
-                src="https://placehold.co/600x400.png" 
+                src="/assets/images/email.png" 
                 alt="Email Handling Services" 
                 width={600} 
                 height={400} 
                 className="rounded-xl shadow-xl object-cover"
                 data-ai-hint="email inbox organization"
+                unoptimized
               />
             </div>
           </div>

@@ -61,6 +61,7 @@ export default function ServicesPage() {
                   height={400} 
                   className="rounded-xl shadow-xl object-cover aspect-[3/2]"
                   data-ai-hint={service.dataAiHint}
+                  unoptimized
                 />
               </div>
               <div className="md:w-1/2">

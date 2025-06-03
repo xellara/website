@@ -14,6 +14,7 @@ export default function HeroSection() {
           objectFit="cover" 
           priority
           data-ai-hint="modern office business"
+          unoptimized
         />
         <div className="absolute inset-0 bg-black/40"></div> {/* Overlay for text readability */}
       </div>
